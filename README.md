@@ -24,7 +24,7 @@ Users should be able to:
 
 ### Screenshot
 
-![My Version](my-version.jpg)
+![My Version](my_version.jpg)
 
 ## My process
 
